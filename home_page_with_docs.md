@@ -4,7 +4,7 @@
 
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 
-<div class="band" style="margin:0 0 2rem 0;padding-bottom:15px">
+<div class="band" style="margin:0 0 2rem 0;padding-bottom:25px">
   <div class="container" style="max-width:800px;">
     <div style="float:left;">
       <a href="/docs/sharing-and-publishing">
