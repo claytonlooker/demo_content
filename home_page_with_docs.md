@@ -4,7 +4,7 @@
 
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 
-<div class="band" style="margin:0 0 2rem 0;padding-bottom:10px">
+<div class="band" style="margin:0 0 2rem 0;padding-bottom:15px">
   <div class="container" style="max-width:800px;">
     <div style="float:left;">
       <a href="/docs/sharing-and-publishing">
@@ -23,7 +23,7 @@
 
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 
-<div class="band" style="margin:0 0 2rem 0;padding-bottom:20px">
+<div class="band" style="margin:0 0 2rem 0;padding-bottom:25px">
   <div class="container" style="max-width:800px;">
     <div style="float:left;">
       <a href="https://looker.com/docs/exploring-data" target="_blank">
@@ -42,7 +42,7 @@
 
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 
-<div class="band" style="margin:0 0 2rem 0;padding-bottom:20px">
+<div class="band" style="margin:0 0 2rem 0;padding-bottom:35px">
   <div class="container" style="max-width:800px;">
     <div style="float:left;">
       <a href="/docs/data-modeling">
@@ -61,7 +61,7 @@
 
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 
-<div class="band" style="margin:0 0 2rem 0;padding-bottom:30px">
+<div class="band" style="margin:0 0 2rem 0;padding-bottom:40px">
   <div class="container" style="max-width:800px;">
     <div style="float:left;">
       <a href="/docs/admin-options">
