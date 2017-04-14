@@ -1,3 +1,4 @@
+![](https://github.com/claytonlooker/demo_content/blob/master/Eye.png?raw=true)
 ## Welcome to Looker.&nbsp;&nbsp;&nbsp;What would you like to learn?
 
 ### ![](https://github.com/claytonlooker/demo_content/blob/master/Eye.png?raw=true)  [Browse](https://looker.com/docs/sharing-and-publishing)
