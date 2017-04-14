@@ -1,6 +1,6 @@
-## Welcome to Looker.  What would you like to learn?
+## Welcome to Looker.&nbsp;&nbsp;&nbsp;What would you like to learn?
 
-### ![](https://github.com/claytonlooker/local/blob/dev-clayton-bertholf-8fzs/Eye.png?raw=true)  [Browse](https://looker.com/docs/sharing-and-publishing)
+### ![](https://github.com/claytonlooker/demo_content/blob/master/Eye.png?raw=true)  [Browse](https://looker.com/docs/sharing-and-publishing)
 If you need to browse through existing reports and dashboards, or download and share reports, [start here](https://looker.com/docs/sharing-and-publishing).
 
 ### ![](https://wwwstatic.lookercdn.com/customers/icons/data.png) [Explore](https://looker.com/docs/exploring-data)
