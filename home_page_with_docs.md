@@ -1,6 +1,4 @@
-
-
-<div class="container" style="max-width:800px;text-align:left;">
+<div class="container" style="max-width:800px;text-align:left;color:#6d5b90">
 <h2>Welcome to Looker.  What Would You Like to Learn?</h2>
 </div>
 
