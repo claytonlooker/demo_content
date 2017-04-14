@@ -1,7 +1,6 @@
 <a href="https://looker.com/docs/sharing-and-publishing" target="_blank">start here</a>
-## Welcome to Looker.&nbsp;&nbsp;&nbsp;What would you like to learn?
 
-<a href="https://looker.com/docs/sharing-and-publishing" target="_blank">start here</a>
+## Welcome to Looker.&nbsp;&nbsp;&nbsp;What would you like to learn?
 
 ### ![](https://github.com/claytonlooker/demo_content/blob/master/Eye.png?raw=true)  [Browse](https://looker.com/docs/sharing-and-publishing)
 If you need to browse through existing reports and dashboards, or download and share reports, [start here](https://looker.com/docs/sharing-and-publishing).
