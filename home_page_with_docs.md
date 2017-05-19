@@ -7,7 +7,7 @@
 <div class="band" style="margin:0 0 2rem 0;padding-bottom:25px">
   <div class="container" style="max-width:800px;">
     <div style="float:left;">
-      <a href="/docs/sharing-and-publishing">
+      <a href="https://looker.com/docs/sharing-and-publishing" target="_blank">
         <span class="fa fa-eye fa-fw" style="font-size:7em;color:#8D7FB9;margin-top:2.25rem;"></span>
       </a>
     </div>
@@ -45,7 +45,7 @@
 <div class="band" style="margin:0 0 2rem 0;padding-bottom:35px">
   <div class="container" style="max-width:800px;">
     <div style="float:left;">
-      <a href="/docs/data-modeling">
+      <a href="https://looker.com/docs/data-modeling" target="_blank">
         <span class="fa fa-code fa-fw" style="font-size:7em;color:#57BEBE;margin-top:2.25rem;"></span>
       </a>
     </div>
@@ -64,7 +64,7 @@
 <div class="band" style="margin:0 0 2rem 0;padding-bottom:40px">
   <div class="container" style="max-width:800px;">
     <div style="float:left;">
-      <a href="/docs/admin-options">
+      <a href="https://looker.com/docs/admin-options" target="_blank">
         <span class="fa fa-database fa-fw" style="font-size:7em;color:#7F7977;margin-top:2.25rem;"></span>
       </a>
     </div>
@@ -83,7 +83,7 @@
 <div class="band" style="margin:0 0 2rem 0;padding-bottom:10px">
   <div class="container" style="max-width:800px;">
     <div style="float:left;">
-      <a href="/docs/setup-and-management">
+      <a href="https://looker.com/docs/setup-and-management" target="_blank">
         <span class="fa fa-gears fa-fw" style="font-size:7em;color:#494C52;margin-top:2.25rem;"></span>
       </a>
     </div>
